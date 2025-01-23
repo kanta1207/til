@@ -14,3 +14,9 @@ The fact that motion helps make the experience feel better doesn't mean that we 
 Not only do we get something that arguably looks pretty nice, but there's also a clear relationship between those two states.
 
 Or a menu animation that I implemented at Vercel. We are translating the elements out and into the view. The animations are also direction-aware, meaning that if we hover on an element on the right, the new items will enter from the right, and old items will exit to the left, making the UI feel more intuitive
+
+## Other resources
+
+- https://rauno.me/craft/interaction-design
+- https://developer.apple.com/videos/play/wwdc2018/803
+- https://emilkowal.ski/ui/great-animations
